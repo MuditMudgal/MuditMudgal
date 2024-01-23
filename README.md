@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MuditMudgal from Rohtak
-- 👀 I’m interested in ... cout<<" CODING " << " TECHNOLOGY " << " playing little bit CRICKET " ;
+- 👋 Hi, I’m @MuditMudgal studing in VAISH COLLEGE OF ENGINN.
+- 👀 I’m interested in ... cout <<" CODING " << " TECHNOLOGY " << " playing little bit CRICKET " ;
 - 🌱 I’m currently learning ... cout << " C++ " << " HTML , CSS " ;
 - 📫 How to reach me ... through Linkedin 
 - 😄 Pronouns: ... He/His
