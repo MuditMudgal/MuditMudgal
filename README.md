@@ -37,7 +37,7 @@
   <strong>thinking, building, and solving</strong>.
 </p>
 
-<h3>What I Bring</h3>
+<h2>What I Bring</h2>
 
 <ul>
   <li><em>Problem Solving</em></li>
@@ -45,27 +45,17 @@
   <li><em>Adaptability</em></li>
 </ul>
 
-<h3>Current Focus</h3>
-
-<p>
-  <strong>ReactJS • NodeJS • Backend Development • APIs • MongoDB • MySQL • Problem Solving</strong>
-</p>
 
 ---
 
-<h3>Currently Learning</h3>
 
-<p>
-  <strong>ReactJS, NodeJS, Backend Technologies and Full-Stack Development</strong>
-</p>
-
-<h3>Ask Me About</h3>
+<h2>Ask Me About</h2>
 
 <p>
   <strong>Problem Solving, Programming and Development</strong>
 </p>
 
-<h3>Reach Me</h3>
+<h2>Reach Me</h2>
 
 <p>
   <strong>📫 mudgalmudit2003@gmail.com</strong>
@@ -73,7 +63,7 @@
 
 ---
 
-<h3 align="center">Tools and Languages</h3>
+<h2 align="center">Tools and Languages</h2>
 
 <p align="center">
 
