@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mudit Mudgal</h1>
 
-<h3 align="center">Building, Solving, Learning — Aspiring Software Engineer 🇮🇳</h3>
+<h3 align="center">Building, Solving, Continuously_Learning</h3>
 
 <p align="center">
   <img src="./banner.jpeg" alt="Mudit Mudgal Banner" width="640"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muditmudgal" alt="GitHub Trophies"/>
-  </a>
-</p>
+
 
 ---
 
@@ -77,7 +73,7 @@
 
 ---
 
-<h3 align="center">🛠️ Tools and Languages</h3>
+<h3 align="center">Tools and Languages</h3>
 
 <p align="center">
 
@@ -151,7 +147,7 @@
 
 <br>
 
-<h2 align="center">🚀 Thanks for Visiting!</h2>
+<h2 align="center">Thanks for Visiting!</h2>
 
 <p align="center">
   <i>Building, solving, learning — one project at a time.</i>
