@@ -3,10 +3,10 @@
 <h3 align="center">Building, Solving, Continuously_Learning</h3>
 
 <p align="center">
-  <img src="./banner.jpeg" alt="Mudit Mudgal Banner" width="640"/>
+  <img src="./banner.jpeg" alt="Mudit Mudgal Banner" width="500"/>
 </p>
 
-
+<br>
 
 <h2>About Me</h2>
 
@@ -35,6 +35,8 @@
   <strong>thinking, building, and solving</strong>.
 </p>
 
+<br>
+
 <h2>What I Bring</h2>
 
 <ul>
@@ -43,8 +45,7 @@
   <li><em>Adaptability</em></li>
 </ul>
 
-
-
+<br>
 
 <h2>Ask Me About</h2>
 
@@ -52,6 +53,7 @@
   <strong>Problem Solving, Programming and Development</strong>
 </p>
 
+<br>
 
 <h2 align="center">Tools and Languages</h2>
 
@@ -123,8 +125,6 @@
 
 </p>
 
----
-
 <br>
 
 <h2 align="center">Thanks for Visiting!</h2>
@@ -151,10 +151,4 @@
 
 <p align="center">
   © Mudit Mudgal · All Rights Reserved
-</p>
-
-<br>
-
-<p align="center">
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
