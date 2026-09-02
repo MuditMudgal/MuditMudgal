@@ -8,8 +8,6 @@
 
 
 
----
-
 <h2>About Me</h2>
 
 <p>
@@ -46,7 +44,6 @@
 </ul>
 
 
----
 
 
 <h2>Ask Me About</h2>
@@ -55,13 +52,6 @@
   <strong>Problem Solving, Programming and Development</strong>
 </p>
 
-<h2>Reach Me</h2>
-
-<p>
-  <strong>📫 mudgalmudit2003@gmail.com</strong>
-</p>
-
----
 
 <h2 align="center">Tools and Languages</h2>
 
