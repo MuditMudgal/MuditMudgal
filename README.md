@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mudit Mudgal</h1>
 
-<h3 align="center">Building, Solving, Learning — Aspiring Software Engineer 🇮🇳</h3>
+<h3 align="center">Building, Solving, Learning — Aspiring Software Developer 🇮🇳</h3>
 
 <p align="center">
   <img src="./banner.jpeg" alt="Mudit Mudgal Banner" width="640"/>
