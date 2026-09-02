@@ -129,9 +129,6 @@
 
 <h2 align="center">Thanks for Visiting!</h2>
 
-<p align="center">
-  <i>Building, solving, learning — one project at a time.</i>
-</p>
 
 <p align="center">
   Have a question, idea, or just want to connect?
@@ -146,7 +143,7 @@
 <br>
 
 <p align="center">
-  <i>Keep building. Keep learning. Keep improving. 🚀</i>
+  <i>Keep building.  Keep learning.  Keep improving. 🚀</i>
 </p>
 
 <p align="center">
