@@ -2,9 +2,7 @@
 
 <h3 align="center">Building, Solving, Continuously_Learning</h3>
 
-<p align="center">
-  <img src="./banner.jpeg" alt="Mudit Mudgal Banner" width="500"/>
-</p>
+
 
 <br>
 
