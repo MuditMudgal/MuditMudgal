@@ -160,24 +160,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MuditMudgal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuditMudgal&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -218,10 +200,10 @@
 
 <p align="center">
   <a href="https://github.com/MuditMudgal/Huffman-File-Compressor">
-    <img
+    <!-- <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=MuditMudgal&repo=Huffman-File-Compressor&theme=tokyonight&hide_border=true"
       alt="Huffman File Compressor"
-    />
+    /> -->
   </a>
 </p>
 
