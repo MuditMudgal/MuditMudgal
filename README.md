@@ -18,9 +18,7 @@
   <a href="https://github.com/MuditMudgal">
     <img src="https://img.shields.io/badge/GitHub-MuditMudgal-181717?style=flat&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/mudit-mudgal-03b391269/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mudit%20Mudgal-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  
   <a href="mailto:mudgalmudit2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-mudgalmudit2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -36,7 +34,6 @@
 - 🧠 Practicing **Data Structures & Algorithms in C++**
 - 🚀 Building projects to improve my real-world development skills
 - 🔧 Interested in **Backend Systems, APIs, Databases & Web Development**
-- ⚡ Fun fact: **I enjoy turning ideas into projects and learning by building.**
 
 ---
 
@@ -193,37 +190,3 @@
     alt="Most Commit Language"
   />
 </p>
-
----
-
-# 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/MuditMudgal/Huffman-File-Compressor">
-    <!-- <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MuditMudgal&repo=Huffman-File-Compressor&theme=tokyonight&hide_border=true"
-      alt="Huffman File Compressor"
-    /> -->
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MuditMudgal/Huffman-File-Compressor">
-    <b>🔗 Huffman File Compressor</b>
-  </a>
-</p>
-
-<p align="center">
-  A file compression project implementing the Huffman Coding algorithm in C++.
-</p>
-
----
-
-# 🧠 What I'm Currently Working On
-
-```text
-DSA & Problem Solving        ███████████████████░░   85%
-React.js                     █████████████████░░░░   75%
-Node.js & Express            ████████████████░░░░░   70%
-MongoDB & Backend             ███████████████░░░░░░   65%
-Full Stack Projects           ██████████████░░░░░░░   60%
