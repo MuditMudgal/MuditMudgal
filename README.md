@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudit Mudgal</h1>
 
----
 
 ## 👨‍💻 About Me
 
@@ -11,9 +10,6 @@
 - 🚀 Building projects to improve my real-world development skills
 - 🔧 Interested in **Backend Systems, APIs, Databases & Web Development**
 
----
-
-## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
 
@@ -114,7 +110,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="Google Cloud"/>
   </a>
 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
-  </a>
-</p>
