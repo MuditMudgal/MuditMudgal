@@ -1,29 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudit Mudgal</h1>
 
-<h3 align="center">
-  Full Stack Developer • C++ • React • Node.js • Backend
-</h3>
-
-<p align="center">
-  <a href="https://github.com/MuditMudgal">
-    <img src="https://komarev.com/ghpvc/?username=MuditMudgal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/MuditMudgal?tab=followers">
-    <img src="https://img.shields.io/github/followers/MuditMudgal?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  </a>
-  <img src="https://img.shields.io/github/stars/MuditMudgal?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/MuditMudgal">
-    <img src="https://img.shields.io/badge/GitHub-MuditMudgal-181717?style=flat&logo=github" alt="GitHub" />
-  </a>
-  
-  <a href="mailto:mudgalmudit2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mudgalmudit2003%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -61,11 +37,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   </a>
-</p>
-
-### 🌐 Frontend Development
-
-<p align="left">
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
   </a>
@@ -89,11 +61,7 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
   </a>
-</p>
 
-### ⚙️ Backend & Databases
-
-<p align="left">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
   </a>
@@ -109,11 +77,7 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
   </a>
-</p>
 
-### 🔧 Tools & Platforms
-
-<p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   </a>
@@ -153,40 +117,4 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
   </a>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=MuditMudgal&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# 📈 GitHub Profile Summary
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuditMudgal&theme=tokyonight"
-    alt="GitHub Profile Details"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuditMudgal&theme=tokyonight"
-    width="400"
-    alt="Repositories Per Language"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuditMudgal&theme=tokyonight"
-    width="400"
-    alt="Most Commit Language"
-  />
 </p>
