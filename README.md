@@ -5,7 +5,7 @@
 
 - 🎓 Computer Science Engineering student
 - 💻 Passionate about **Full Stack Development & Problem Solving**
-- 🌱 Currently learning **React.js, Node.js, Express.js & Backend Development**
+- 🌱 Currently learning **Frontend & Backend Development** and scaling them up
 - 🧠 Practicing **Data Structures & Algorithms in C++**
 - 🚀 Building projects to improve my real-world development skills
 - 🔧 Interested in **Backend Systems, APIs, Databases & Web Development**
